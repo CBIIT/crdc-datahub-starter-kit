@@ -1,0 +1,15 @@
+[submodule "crdc-datahub-ui"]
+	path = crdc-datahub-ui
+	url = https://github.com/CBIIT/crdc-datahub-ui.git
+[submodule "crdc-datahub-authn"]
+	path = crdc-datahub-authn
+	url = https://github.com/CBIIT/crdc-datahub-authn.git
+[submodule "crdc-datahub-authz"]
+	path = crdc-datahub-authz
+	url = https://github.com/CBIIT/crdc-datahub-authz.git
+[submodule "crdc-datahub-database-drivers"]
+	path = crdc-datahub-database-drivers
+	url = https://github.com/CBIIT/crdc-datahub-database-drivers.git
+[submodule "crdc-datahub-react-siteframe"]
+	path = crdc-datahub-react-siteframe
+	url = https://github.com/CBIIT/crdc-datahub-react-siteframe.git
