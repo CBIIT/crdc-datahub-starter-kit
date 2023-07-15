@@ -13,3 +13,6 @@
 [submodule "crdc-datahub-react-siteframe"]
 	path = crdc-datahub-react-siteframe
 	url = https://github.com/CBIIT/crdc-datahub-react-siteframe.git
+[submodule "crdc-datahub-doc"]
+	path = crdc-datahub-doc
+	url = https://github.com/CBIIT/crdc-datahub-doc.git
