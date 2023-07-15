@@ -4,6 +4,17 @@ The repositories as a submodule here are the core part of mtp programming ecosys
 
 <br>
 
+## Repos
+
+1. AuthN  --  authentication ,  API authenticated (node.js)
+2. AuthZ -- authorization, API getMyUser(node.js)
+3. doc  -- documentation 
+4. react-siteframe -- skeletal system, only have header and footer. (React, Typescript)
+5. ui --- frontend.  (React)
+
+
+## System diagram
+
 ```mermaid
 graph TD
     A[Front-end] -->|Requests NIH login page| B[NIH login page]
