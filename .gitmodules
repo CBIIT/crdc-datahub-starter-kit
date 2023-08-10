@@ -16,3 +16,6 @@
 [submodule "crdc-datahub-doc"]
 	path = crdc-datahub-doc
 	url = https://github.com/CBIIT/crdc-datahub-doc.git
+[submodule "crdc-hub-deployments"]
+	path = crdc-hub-deployments
+	url = https://github.com/CBIIT/crdc-hub-deployments
